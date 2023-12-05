@@ -1,0 +1,14 @@
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\bin\Debug\net7.0\meu-segundo-repo.exe
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\bin\Debug\net7.0\meu-segundo-repo.deps.json
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\bin\Debug\net7.0\meu-segundo-repo.runtimeconfig.json
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\bin\Debug\net7.0\meu-segundo-repo.dll
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\bin\Debug\net7.0\meu-segundo-repo.pdb
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.AssemblyInfoInputs.cache
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.AssemblyInfo.cs
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.csproj.CoreCompileInputs.cache
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.dll
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\refint\meu-segundo-repo.dll
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.pdb
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\meu-segundo-repo.genruntimeconfig.cache
+C:\Users\joifo\OneDrive\Documentos\GIT_PROJECTS\meu-segundo-repo\obj\Debug\net7.0\ref\meu-segundo-repo.dll

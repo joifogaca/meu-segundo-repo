@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "meu-segundo-repo/1.0.0": {
+        "runtime": {
+          "meu-segundo-repo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meu-segundo-repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
